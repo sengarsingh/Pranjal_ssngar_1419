@@ -2,11 +2,13 @@
 
 I am a Computer Science graduate who enjoys building clean visuals, practical workflows, and real projects. I like keeping things simple, sharp, and useful.
 
-🔭 I’m currently working on: Creative design projects, AI workflows, and full-stack learning
-👯 I’m looking to collaborate on: Graphic design, social media content, and web projects
-🤔 I’m looking for help with: React, Node.js, and real-world project building
-💬 Ask me about: Content creation, design, and tech learning
-📫 How to reach me: pranchal1419@gmail.com
+### About Me
+
+🔭 I’m currently working on: Creative design projects, AI workflows, and full-stack learning  
+👯 I’m looking to collaborate on: Graphic design, social media content, and web projects  
+🤔 I’m looking for help with: React, Node.js, and real-world project building  
+💬 Ask me about: Content creation, design, and tech learning  
+📫 How to reach me: pranchal1419@gmail.com  
 ⚡ Fun fact: I love tech, design, and creating with ideas
 
 
