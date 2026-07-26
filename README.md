@@ -41,16 +41,6 @@ Building creative digital experiences through design, AI workflows, and modern w
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,react,nodejs,git,github,vscode,figma"/>
-
-</p>
-
----
-
 ## 🎯 Focus Areas
 
 - 🎨 Graphic Design (Photoshop • Canva • Figma)
