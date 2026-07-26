@@ -1,22 +1,63 @@
 <p align="center">
-  <img src="./profile.jpg" alt="Profile Photo" width="220" />
+  <img src="./profile.jpg" width="180" alt="Pranjal Sengar"/>
 </p>
 
-<h2 align="center">Pranjal Sengar</h2>
-<p align="center">Creative Design • AI • Full-Stack Learning</p>
+<h1 align="center">Pranjal Sengar</h1>
 
-# Hi, I’m Pranjal Sengar 👋
+<h3 align="center">
+Computer Science Graduate | Creative Designer | AI Enthusiast | Full-Stack Learner
+</h3>
 
-I am a Computer Science graduate who enjoys building clean visuals, practical workflows, and real projects. I like keeping things simple, sharp, and useful.
+<p align="center">
+Building creative digital experiences through design, AI workflows, and modern web development.
+</p>
 
-### About Me
+<p align="center">
+<a href="mailto:pranchal1419@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🔭 I’m currently working on: Creative design projects, AI workflows, and full-stack learning  
-👯 I’m looking to collaborate on: Graphic design, social media content, and web projects  
-🤔 I’m looking for help with: React, Node.js, and real-world project building  
-💬 Ask me about: Content creation, design, and tech learning  
-📫 How to reach me: pranchal1419@gmail.com  
-⚡ Fun fact: I love tech, design, and creating with ideas
+<a href="https://github.com/sengarsingh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pranjalsengar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🔭 **Currently working on:** Creative design projects, AI workflows, and full-stack learning
+- 🌱 **Currently learning:** React.js, Node.js, JavaScript, Git & GitHub
+- 👯 **Looking to collaborate on:** Graphic design, social media content, and web development projects
+- 🤝 **Looking for help with:** Full-stack development, open-source contributions, and real-world projects
+- 💬 **Ask me about:** Content creation, graphic design, AI tools, and web development
+- 📫 **Reach me at:** **pranchal1419@gmail.com**
+- 📍 **Location:** Greater Noida, India
+- ⚡ **Fun fact:** I love turning ideas into creative digital experiences.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,react,nodejs,git,github,vscode,figma"/>
+
+</p>
+
+---
+
+## 🎯 Focus Areas
+
+- 🎨 Graphic Design (Photoshop • Canva • Figma)
+- 🤖 AI & Prompt Engineering
+- 🌐 Full-Stack Web Development
+- 📱 Social Media Content Creation
+- 🚀 Continuous Learning & Problem Solving
 
 
 ## 🌐 Socials:
