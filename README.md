@@ -66,6 +66,12 @@ I am interested in using AI as a real execution layer: faster research, sharper 
 * Automation ideas for repetitive tasks and startup execution
 * Experiments that connect business problems with simple digital solutions
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🌐 Full-Stack Learning
 
 <p align="center">
