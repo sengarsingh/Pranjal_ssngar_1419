@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="./profile.jpg" alt="Profile Photo" width="220" />
+</p>
+
+<h2 align="center">Pranjal Sengar</h2>
+<p align="center">Creative Design • AI • Full-Stack Learning</p>
+
 # Hi, I’m Pranjal Sengar 👋
 
 I am a Computer Science graduate who enjoys building clean visuals, practical workflows, and real projects. I like keeping things simple, sharp, and useful.
