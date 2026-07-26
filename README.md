@@ -1,5 +1,13 @@
-# 💫 About Me:
-I am a B.Sc. graduate with a background in Mathematics, Physics, and Computer Science. I am passionate about technology and continuously learning programming, web development, and software engineering to build a successful career in IT.
+# Hi, I’m Pranjal Sengar 👋
+
+I am a Computer Science graduate who enjoys building clean visuals, practical workflows, and real projects. I like keeping things simple, sharp, and useful.
+
+🔭 I’m currently working on: Creative design projects, AI workflows, and full-stack learning
+👯 I’m looking to collaborate on: Graphic design, social media content, and web projects
+🤔 I’m looking for help with: React, Node.js, and real-world project building
+💬 Ask me about: Content creation, design, and tech learning
+📫 How to reach me: pranchal1419@gmail.com
+⚡ Fun fact: I love tech, design, and creating with ideas
 
 
 ## 🌐 Socials:
@@ -18,9 +26,6 @@ I am a B.Sc. graduate with a background in Mathematics, Physics, and Computer Sc
   <img src="https://img.shields.io/badge/Focus-Design%20%7C%20AI%20%7C%20Web-orange?style=for-the-badge" />
 </p>
 
-# Hi, I’m Pranjal Sengar 👋
-
-I am a Computer Science graduate who enjoys building clean visuals, practical workflows, and real projects. I like keeping things simple, sharp, and useful.
 
 ## 🎓 Education
 
