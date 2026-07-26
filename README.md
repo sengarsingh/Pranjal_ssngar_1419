@@ -89,7 +89,7 @@ I am learning full-stack development by building and improving real projects. My
 
 <p align="center">
   <img src="https://img.shields.io/badge/Chess-4b5563?style=flat-square" />
-  <img src="https://img.shields.io/badge/Crafting-ec4899?style=flat-square" />
+  <img src="https://img.shields.io/badge/travelling-ec4899?style=flat-square" />
   <img src="https://img.shields.io/badge/Sketching-8b5cf6?style=flat-square" />
   <img src="https://img.shields.io/badge/Cycling-10b981?style=flat-square" />
 </p>
@@ -121,9 +121,11 @@ I am learning full-stack development by building and improving real projects. My
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Pranjal_sengar_1419&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Pranjal_sengar_1419&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pranjal_sengar_1419&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=sengarsingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=sengarsingh&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sengarsingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=sengarsingh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![](https://komarev.com/ghpvc/?username=sengarsingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pranjal_sengar_1419&theme=radical&no-frame=false&no-bg=false&margin-w=4)
